@@ -19,7 +19,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  width: 80%;
+  width: 80% !important;
 }
 .text{
   
