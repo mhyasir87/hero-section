@@ -17,7 +17,7 @@ body {
 }
 .container{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   align-items: center;
   width: 90% !important;
 }
@@ -28,7 +28,7 @@ body {
   width: 90%;
   color: #1d1c1c;
   font-weight:600;
-  font-size: 60px;
+  font-size: 56px;
   line-height: 60px;
   margin-bottom: 20px;
   letter-spacing: 1px;
